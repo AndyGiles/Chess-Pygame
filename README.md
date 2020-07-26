@@ -1,2 +1,8 @@
 # Chess-Pygame
-A chess game using Python's 2d Graphics module Pygame.
+A chess game for 2 players using Python's 2d Graphics module Pygame.
+
+To use, put chess.py in the same folder as pawn.png, knight.png, rook.png, bishop.png, queen.png, and king.png, and run chess.py.
+
+The purple player will go first, click pieces to select them, and then click on another square to move the piece to that location.
+
+Once a piece is selected, green squares represent empty spaces to move to, and red squares mark enemy pieces you can capture.
