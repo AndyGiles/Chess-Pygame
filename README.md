@@ -1,5 +1,5 @@
 # Chess-Pygame
-A chess game for 2 players using Python's 2d Graphics module Pygame.
+A chess game for 2 players using Python's 2D Graphics module Pygame.
 
 To use, put chess.py in the same folder as pawn.png, knight.png, rook.png, bishop.png, queen.png, and king.png, and run chess.py. You will need to have pygame downloaded.
 
