@@ -7,7 +7,4 @@ The purple player will go first. Click pieces to select them, and then click on 
 
 Once a piece is selected, green squares represent empty spaces to move to, and red squares mark enemy pieces you can capture.
 
-
-Attributions:
-
-pawn.png - <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
